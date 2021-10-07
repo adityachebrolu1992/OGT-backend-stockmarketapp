@@ -1,0 +1,26 @@
+{
+  "name": "ogt-backend-stockmarketapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityachebrolu1992/OGT-backend-stockmarketapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityachebrolu1992/OGT-backend-stockmarketapp/issues"
+  },
+  "homepage": "https://github.com/adityachebrolu1992/OGT-backend-stockmarketapp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "require": "^2.4.20"
+  }
+}
